@@ -3,3 +3,28 @@
   "link":"https://gta.deloskiyt.pl/"
   "icon":"https://i.imgur.com/N1vhYG0.jpeg"
 }
+[
+  { "name": "BO1 Zombies", "link": "https://vel.gg/botz", "icon": "https://www.google.com/s2/favicons?domain=vel.gg&sz=128" },
+  { "name": "Moon", "link": "https://moon-zombies.pages.dev/", "icon": "https://www.google.com/s2/favicons?domain=moon-zombies.pages.dev&sz=128" },
+  { "name": "Kino der Toten", "link": "https://kino-der-toten.pages.dev/", "icon": "https://www.google.com/s2/favicons?domain=kino-der-toten.pages.dev&sz=128" },
+  { "name": "BO3 Cheese Cube", "link": "https://cheese-cube.pages.dev/", "icon": "https://www.google.com/s2/favicons?domain=cheese-cube.pages.dev&sz=128" },
+  { "name": "Black Ops 2", "link": "https://vibeslops.luckeysystems.com/", "icon": "https://www.google.com/s2/favicons?domain=vibeslops.luckeysystems.com&sz=128" },
+  { "name": "Modern Warfare 2", "link": "https://ovz-game-production.up.railway.app/", "icon": "https://www.google.com/s2/favicons?domain=ovz-game-production.up.railway.app&sz=128" },
+  { "name": "Skate 3", "link": "https://skate.aaddpp.lol/", "icon": "https://www.google.com/s2/favicons?domain=skate.aaddpp.lol&sz=128" },
+  { "name": "Skate Rust", "link": "https://global-terror.net/", "icon": "https://www.google.com/s2/favicons?domain=global-terror.net&sz=128" },
+  { "name": "CS Surf", "link": "https://surfd.net/", "icon": "https://www.google.com/s2/favicons?domain=surfd.net&sz=128" },
+  { "name": "Halo CE", "link": "https://mitchellhynes.com/halo", "icon": "https://www.google.com/s2/favicons?domain=mitchellhynes.com&sz=128" },
+  { "name": "Halo CE Mobile", "link": "https://hcemobile.com/", "icon": "https://www.google.com/s2/favicons?domain=hcemobile.com&sz=128" },
+  { "name": "PES 6", "link": "https://pes6.optijuegos.net/", "icon": "https://www.google.com/s2/favicons?domain=pes6.optijuegos.net&sz=128" },
+  { "name": "GTA Vice City", "link": "https://joncodeofficial.github.io/gta-vice-city-wasm/", "icon": "https://www.google.com/s2/favicons?domain=joncodeofficial.github.io&sz=128" },
+  { "name": "The Simpsons: Hit & Run", "link": "https://shar-wasm.cjoseph.workers.dev/?skipmov", "icon": "https://www.google.com/s2/favicons?domain=shar-wasm.cjoseph.workers.dev&sz=128" },
+  { "name": "Quake 1", "link": "https://q1.pieter.com/", "icon": "https://www.google.com/s2/favicons?domain=q1.pieter.com&sz=128" },
+  { "name": "Quake 2", "link": "https://q2.pieter.com/", "icon": "https://www.google.com/s2/favicons?domain=q2.pieter.com&sz=128" },
+  { "name": "Quake 3", "link": "https://q3.pieter.com/", "icon": "https://www.google.com/s2/favicons?domain=q3.pieter.com&sz=128" },
+  { "name": "Return to Castle Wolfenstein", "link": "https://rtcw.pieter.com/", "icon": "https://www.google.com/s2/favicons?domain=rtcw.pieter.com&sz=128" },
+  { "name": "Unreal Tournament", "link": "https://ut.pieter.com/", "icon": "https://www.google.com/s2/favicons?domain=ut.pieter.com&sz=128" },
+  { "name": "Half-Life", "link": "https://pixelsuft.github.io/hl/", "icon": "https://www.google.com/s2/favicons?domain=pixelsuft.github.io&sz=128" },
+  { "name": "Half-Life / CS 1.6", "link": "https://x8bitrain.github.io/webXash/", "icon": "https://www.google.com/s2/favicons?domain=x8bitrain.github.io&sz=128" },
+  { "name": "Diablo", "link": "https://johnimril.github.io/diablo_web/", "icon": "https://www.google.com/s2/favicons?domain=johnimril.github.io&sz=128" },
+  { "name": "Hedgewars", "link": "https://webwars.link/", "icon": "https://www.google.com/s2/favicons?domain=webwars.link&sz=128" }
+]
